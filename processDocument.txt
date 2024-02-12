@@ -1,0 +1,36 @@
+Opening a Youtube Channel - Process document 
+
+This document provides a step by step guide on how to open a youtube channel.
+
+Introduction: 
+Opening a youtube channel is a process that involves creating a Google account and setting up a 
+chanel on Youtube. This document will guide you through the process.
+
+1. Creating a Google Account 
+-> Open any browswe and go to https://account.google.com/signup.
+-> Fill all the required information asked in that page.
+-> Complete creating the google account by following the on-screen instruction.
+
+2. Setting up a Youtube Channel
+-> Log in to the Google Account.
+-> Go to https://www.youtube.com.
+-> Click on the profile icon.
+-> Select "Create a channel" .
+-> Click create after you are done putting your channel name.
+
+3. Customizing Your Channel:
+-> Once your chanel is created, click on "Customize Channel" button.
+-> Upload a profile picture and cover photo to personalize.
+-> Add a brief description about the content that viewers can expect.
+-> Organize your channel layout 
+
+4. Uploading Your First Video
+-> Click on the "Create" button in the Homepage.
+-> Select "Upload Video".
+-> Choose the video you want to upload from your device.
+-> Add tittle, description to the video.
+-> Set the Visibility (public, private, unlisted).
+->Click "Publish".
+
+Conclusion:
+You have successfully created your own youtube chanel and uploaded your first video
