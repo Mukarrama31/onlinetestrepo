@@ -34,3 +34,12 @@ chanel on Youtube. This document will guide you through the process.
 
 Conclusion:
 You have successfully created your own youtube chanel and uploaded your first video
+
+/*----------------------------------------------------------------------------*/
+SUGGESTIONS
+The process document is good but these are my suggestions
+-> Check spelling and punctuation errors (It's good to be correct)
+-> Use Ordered List if you feel it's better 
+-> Add screenshots for more clarity
+-> You could make it more clear and shorter(Thinking of your audience)
+/*----------------------------------------------------------------------------*/
